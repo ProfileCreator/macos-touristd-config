@@ -1,0 +1,823 @@
+{
+  "tours": [
+      {
+      "waxwing": true,
+      "boards": [
+        "Mac-5F9802EFE386AA28", 
+        "Mac-E7203C0F68AA0004"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_early-2020_macbook-pro-13_icon.icns",
+      "id": "catalina_early-2020_macbook-pro-13",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[4-9][4-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/early-2020/macbook-pro-13"
+    },{
+      "waxwing": true,
+      "boards": [
+        "Mac-0CFF9C7C2B63DF8D"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_early-2020_macbook-air_icon.icns",
+      "id": "catalina_early-2020_macbook-air",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[3-9][3-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/early-2020/macbook-air"
+    },{
+      "waxwing": true,
+      "boards": [
+        "Mac-E1008331FDC96864"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_late-2019_macbook-pro_icon.icns",
+      "id": "catalina_late-2019_macbook-pro",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[1-9][1-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/late-2019/macbook-pro"
+    },{
+      "waxwing": true,
+      "boards": [
+        "Mac-27AD2F918AE68F61"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_mac-pro_icon.icns",
+      "id": "catalina_mac-pro",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[1-9][1-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/mac-pro"
+    },{
+      "waxwing": true,
+      "boards": [
+        "Mac-4B682C642B45593E"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_imac-21a_icon.icns",
+      "id": "catalina_imac-21a",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/imac-21a"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-937A206F2EE63C01",
+        "Mac-827FB448E656EC26",
+        "Mac-1E7E29AD0135F9BC"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_macbook-pro_icon.icns",
+      "id": "catalina_macbook-pro",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/macbook-pro"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-7BA5B2D9E42DDD94"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_imac-pro_icon.icns",
+      "id": "catalina_imac-pro",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/imac-pro"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-7BA5B2DFE22DDD8C"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_mac-mini_icon.icns",
+      "id": "catalina_mac-mini",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/mac-mini"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-226CB3C6A851A671"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_macbook-air_icon.icns",
+      "id": "catalina_macbook-air",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/macbook-air"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-53FDB3D8DB8CA971"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_macbook-pro-13_icon.icns",
+      "id": "catalina_macbook-pro-13",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/macbook-pro-13"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-AA95B1DDAB278B95",
+        "Mac-63001698E7A34814"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_imac_icon.icns",
+      "id": "catalina_imac",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/imac"
+    },
+    {
+      "waxwing": true,
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_whats_new.icns",
+      "id": "catalina_whats_new",
+      "platform": "mac",
+      "osVersion": [
+        "10\\.15\\.[0-9][0-9]*"
+      ],
+      "fromOsVersion": [
+        "10.*"
+      ],
+      "minimumScale": 1,
+      "type": 1,
+      "url": "https://help.apple.com/macos/catalina/whats-new"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-226CB3C6A851A671"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_macbook-air_icon.icns",
+      "id": "SkI/dLAkQu6k/qpzSOG6Iw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[5-9][5-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/mojave/mid-2019/macbook-air"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-53FDB3D8DB8CA971"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_mid-2019_macbook-pro-13_icon.icns",
+      "id": "EBFV2ZqnQiaqrZhvyifLeQ",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[5-9][5-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/mojave/mid-2019/macbook-pro-13/"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-AA95B1DDAB278B95",
+        "Mac-63001698E7A34814"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_imac_icon.icns",
+      "id": "aytyxqEmTIOvEz3iS4IbkA",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[4-9][4-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/mojave/early-2019/imac"
+    },
+    {
+      "boards": [
+        "Mac-7BA5B2DFE22DDD8C"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_mac-mini_icon.icns",
+      "waxwing": true,
+      "id": "baXokbqsQ/2KLkzIZrR6ng",
+      "platform": "mac",
+      "minimumScale": 1,
+      "type": 2,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "url": "https://help.apple.com/macos/mojave/mac-mini/"
+    },
+    {
+      "boards": [
+        "Mac-FFE5EF92E7BD251A"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_macbook-air_icon.icns",
+      "waxwing": true,
+      "id": "Tu81gKhDTvmNkjyqcPBfKA",
+      "platform": "mac",
+      "minimumScale": 1,
+      "type": 2,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "url": "https://help.apple.com/macos/mojave/macbook-air/"
+    },
+    {
+      "boards": [
+        "Mac-031B6E643712F32A"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_macbook_icon.icns",
+      "waxwing": true,
+      "id": "hP2OZh+MTEKeFcjgec2gZw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "type": 2,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "url": "https://help.apple.com/macos/mojave/late-2018/macbook/"
+    },
+    {
+      "boards": [
+        "Mac-827FB448E656EC26",
+        "Mac-937A206F2EE63C01",
+        "Mac-1E7E29AD0135F9BC"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_macbook-pro_icon.icns",
+      "waxwing": true,
+      "id": "srluh6uOQiuWCzxguqhDNw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "type": 2,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "url": "https://help.apple.com/macOS/mojave/macbook-pro"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-7BA5B2D9E42DDD94"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_imac-pro_icon.icns",
+      "id": "40reAuuYTHOsx4oGcx4qrA",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/mojave/imac-pro"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-77F17D7DA9285301",
+        "Mac-BE088AF8C5EB4FA2"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_imac_icon.icns",
+      "id": "pDWyREoARJm5V1mJYr9GKg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/mojave/imac"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-4B682C642B45593E"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_imac-21a_icon.icns",
+      "id": "EeEFv8cyS0CVe3ia2UEehA",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/mojave/imac-21a"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-EE2EBD4B90B839A8"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_macbook_icon.icns",
+      "id": "We59wh+OTa6c1yas/yppwg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/mojave/macbook"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-B4831CEBD52A0C4C"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_macbook-pro-13_icon.icns",
+      "id": "fWRpNw7IR3S3qxX63nmvMw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/mojave/macbook-pro-13"
+    },
+    {
+      "waxwing": true,
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/mojave_whats_new.icns",
+      "id": "lQlm1yrMS0GPVyAL44id+A",
+      "platform": "mac",
+      "osVersion": [
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "fromOsVersion": [
+        "10.*"
+      ],
+      "minimumScale": 1,
+      "type": 1,
+      "url": "https://help.apple.com/macOS/mojave/whats-new"
+    },
+    {
+      "boards": [
+        "Mac-827FB448E656EC26",
+        "Mac-937A206F2EE63C01"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/macbook-pro.icns",
+      "waxwing": true,
+      "id": "krdWS8DSQIqJSqQFXW1/pw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "type": 2,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "url": "https://help.apple.com/macOS/high-sierra/mid-2018/macbook-pro"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-7BA5B2D9E42DDD94"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/imac-pro.icns",
+      "id": "APhNaYV1RxSS41lC7ZJJ9Q",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/high-sierra/imac-pro"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-06F11FD93F0323C5",
+        "Mac-06F11F11946D27C5"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/macbook-pro-15.icns",
+      "id": "MM3ne3nTR9eXFyVwZ5gN7Q",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/high-sierra/macbook-pro-15"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-77F17D7DA9285301",
+        "Mac-BE088AF8C5EB4FA2"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/imac.icns",
+      "id": "KwUoo0fRRM2VPmIm0V67xg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/high-sierra/imac"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-4B682C642B45593E"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/imac-21a.icns",
+      "id": "+trJt2VsTvK1yfPGwOySDw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/high-sierra/imac-21a"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-66E35819EE2D0D05",
+        "Mac-CAD6701F7CEA0921",
+        "Mac-A5C67F76ED83108C",
+        "Mac-551B86E5744E2388"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/macbook-pro.icns",
+      "id": "lEDfW5O+SZe8KTQ93HGOPA",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/high-sierra/macbook-pro"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-EE2EBD4B90B839A8",
+        "Mac-9AE82516C7C6B903"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/macbook.icns",
+      "id": "b/dLke8ZTQaN9KKrxfwDQw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/high-sierra/macbook"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-473D31EABEB93F9B",
+        "Mac-B4831CEBD52A0C4C"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/macbook-pro-13.icns",
+      "id": "ETJeJ9/1QmmWUde7uK8fDg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[1-9][0-9]*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/high-sierra/macbook-pro-13"
+    },
+    {
+      "waxwing": false,
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/whats-new/HighSierraWhatsNew.icns",
+      "id": "f/Pn3F4RScOh+GUBKO9sRA",
+      "platform": "mac",
+      "osVersion": [
+        "10.13.*"
+      ],
+      "fromOsVersion": [
+        "10.*"
+      ],
+      "minimumScale": 1,
+      "type": 1,
+      "url": "https://help.apple.com/macOS/high-sierra/whats-new"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-66E35819EE2D0D05"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "2+LvxAVyT6qnV1sDMZT0NA",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/osx/mac/10.12/macbook-pro-13d"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-CAD6701F7CEA0921"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "GZAJdmpdSqmfH2PkCr8ebw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/Sierra/macbook-pro-13d"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-A5C67F76ED83108C"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "EWfaSdJwR/6f1BYGiyLpcQ",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/osx/mac/10.12/macbook-pro-15d"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-551B86E5744E2388"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "kti4ZkMKQFyCL2kbgCY23A",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/Sierra/macbook-pro-15d"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-9AE82516C7C6B903"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "Pa88nesPSO6POlutVN4/Sg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/osx/mac/10.12/macbook"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-EE2EBD4B90B839A8"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "FQrkbNP9ThKQQtpqx2saFg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/Sierra/macbook"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-473D31EABEB93F9B"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "B70mVuHeT0WUgKh/VdUuZQ",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/osx/mac/10.12/macbook-pro-13c"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-B4831CEBD52A0C4C"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "JTecrrXDSVut2tSfltty9Q",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/Sierra/macbook-pro-13c"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-4B682C642B45593E"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "WEyaCPMVRB6HbnmRq9EnNQ",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/Sierra/mid-2017/imac-21a"
+    },
+    {
+      "boards": [
+        "Mac-77F17D7DA9285301"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "waxwing": true,
+      "id": "UhiR1M79RWmXLIQr4M0AWw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/Sierra/mid-2017/imac-21r"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-BE088AF8C5EB4FA2"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "d+gfl8CNTNeauANKjf9WqA",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macOS/Sierra/mid-2017/imac-27"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-06F11FD93F0323C5",
+        "Mac-E43C1C25D4880AD6"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "/+vP78HsSh+Yeb4xJnUT9A",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/osx/mac/10.12/macbook-pro-15"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-06F11F11946D27C5"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "n87FVu1TSwGzble8vqBvsg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.12.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/osx/mac/10.12/macbook-pro-15"
+    },
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-06F11FD93F0323C5"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/macbook-pro-15/HighSierraHardware.icns",
+      "id": "SdV08ZZQRxOCWq6JBEXmfg",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10.11.*",
+        "10\\.14\\.[0-9][0-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/osx-elcapitan/get-to-know-your-mac-book"
+    },
+    {
+      "waxwing": false,
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/mac-basics/HighSierraBasics.icns",
+      "id": "LR2P9+rnQ2q9xSUy1ZgWOw",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.13\\.[0-9]*"
+      ],
+      "type": 0,
+      "url": "https://help.apple.com/macOS/high-sierra/mac-basics"
+    },
+    {
+      "waxwing": true,
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/mac-basics/HighSierraBasics.icns",
+      "id": "bydF6fX5Sp6aBYdEXD0VwQ",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.14\\.[0-9]*"
+      ],
+      "type": 0,
+      "url": "https://help.apple.com/macOS/mojave/mac-basics"
+    },
+    {
+      "waxwing": true,
+      "iconAsset": "https://help.apple.com/macOS/high-sierra/mac-basics/HighSierraBasics.icns",
+      "id": "catalina_mac_basics",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[0-9]*"
+      ],
+      "type": 0,
+      "url": "https://help.apple.com/macos/catalina/mac-basics"
+    }
+  ],
+  "shortDelay": 0,
+  "notificationCases": [
+    [
+      {
+        "withLogin": 0,
+        "id": "kIFAGHvXTAepRptQXiXe5w",
+        "style": "Show, Later",
+        "testPercent": 100,
+        "name": "A",
+        "minHoursNotificationDelay": [
+          4
+        ]
+      }
+    ],
+    [
+      {
+        "withLogin": 0,
+        "id": "N0bfKOvERSiAp06mHOcgOQ",
+        "style": "Later With Options",
+        "testPercent": 100,
+        "name": "C",
+        "minHoursNotificationDelay": [
+          24
+        ]
+      }
+    ]
+  ],
+  "version": "0.15"
+}
