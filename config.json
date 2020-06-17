@@ -3,6 +3,20 @@
       {
       "waxwing": true,
       "boards": [
+        "Mac-A61BADE1FDAD7B05"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_late-2019_macbook-pro_icon.icns",
+      "id": "catalina_late-2019_macbook-pro",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[5-9][5-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/late-2019/macbook-pro"
+    },{
+      "waxwing": true,
+      "boards": [
         "Mac-5F9802EFE386AA28", 
         "Mac-E7203C0F68AA0004"
       ],
@@ -819,5 +833,5 @@
       }
     ]
   ],
-  "version": "0.15"
+  "version": "0.16"
 }
