@@ -3,7 +3,7 @@
 TOURISTD_URL="https://help.apple.com/macOS/config.json"
 REPO="macos-touristd-config"
 WDIR=$(/bin/pwd)
-DIR=$(/usr/bin/basename $WDIR)
+DIR=$(/usr/bin/basename "$WDIR")
 
 # Check that we're running this from the repo
 if [ "$DIR" != "$REPO" ]; then
@@ -12,6 +12,6 @@ if [ "$DIR" != "$REPO" ]; then
 	exit 1
 fi
 
-/usr/bin/curl "$TOURISTD_URL" -o ${PWD}/config.json
+/usr/bin/curl "$TOURISTD_URL" -o "${PWD}"/config.json
 
 exit
