@@ -1,6 +1,21 @@
 {
   "tours": [
-      {
+    {
+      "waxwing": true,
+      "boards": [
+        "Mac-CFF7D910A743CAAF", 
+        "Mac-AF89B6D9451A490B"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/catalina_mid-2020_imac_icon.icns",
+      "id": "catalina_mid-2020_imac",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "10\\.15\\.[6-9][6-9]*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/catalina/mid-2020/imac"
+    },{
       "waxwing": true,
       "boards": [
         "Mac-A61BADE1FDAD7B05"
