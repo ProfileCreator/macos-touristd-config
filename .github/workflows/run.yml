@@ -1,0 +1,30 @@
+name: Run
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clone-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout from Git
+        uses: actions/checkout@v2.3.4
+
+
+  download-config:
+    needs: clone-repo
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download latest config.json from Apple
+        run: ./DownloadTouristDConfig.sh
+  #         pwd
+  #         cd ${GITHUB_WORKSPACE}
+  #         ls -la
+  #         ${GITHUB_WORKSPACE}/DownloadTouristDConfig.sh
+
+  # create-pr:
+  #   needs: download-config
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Create Pull Request
+  #       uses: peter-evans/create-pull-request@v3.6.0
