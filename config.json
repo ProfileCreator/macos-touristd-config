@@ -1,48 +1,6 @@
 {
   "tours": [
-     {
-      "waxwing": true,
-      "productHashes": [
-        "81b52ce78cce91fa6ce17ca079a19cc2a0792bc7"
-      ],
-      "iconAsset": "https://help.apple.com/macOS/configs/notifications/bigsur_late-2020_macbook-air_icon.icns",
-      "id": "bigsur_late-2020_macbook-air",
-      "platform": "mac",
-      "minimumScale": 1,
-      "osVersion": [
-        "11\\.[1-9].*"
-      ],
-      "type": 2,
-      "url": "https://help.apple.com/macos/big-sur/macbook-air"
-    },{
-      "waxwing": true,
-      "productHashes": [
-        "be98437663caf0153c5de44d6d546b7b57b31568"
-      ],
-      "iconAsset": "https://help.apple.com/macOS/configs/notifications/bigsur_late-2020_macbook-pro-13_icon.icns",
-      "id": "bigsur_late-2020_macbook-pro-13",
-      "platform": "mac",
-      "minimumScale": 1,
-      "osVersion": [
-        "11\\.[1-9].*"
-      ],
-      "type": 2,
-      "url": "https://help.apple.com/macos/big-sur/late-2020/macbook-pro-13"
-    },{
-      "waxwing": true,
-      "productHashes": [
-        "eb9aebef4ae68ca49dc45358fd7a92c7ab49d7f3"
-      ],
-      "iconAsset": "https://help.apple.com/macOS/configs/notifications/bigsur_late-2020_mac-mini_icon.icns",
-      "id": "bigsur_late-2020_mac-mini",
-      "platform": "mac",
-      "minimumScale": 1,
-      "osVersion": [
-        "11\\.[1-9].*"
-      ],
-      "type": 2,
-      "url": "https://help.apple.com/macos/big-sur/late-2020/mac-mini"
-    },{
+   {
       "waxwing": true,
       "boards": [
         "Mac-5F9802EFE386AA28"
@@ -52,7 +10,7 @@
       "platform": "mac",
       "minimumScale": 1,
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "type": 2,
       "url": "https://help.apple.com/macos/big-sur/macbook-pro-13"
@@ -66,7 +24,7 @@
       "platform": "mac",
       "minimumScale": 1,
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "type": 2,
       "url": "https://help.apple.com/macos/big-sur/mac-mini"
@@ -81,7 +39,7 @@
       "platform": "mac",
       "minimumScale": 1,
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "type": 2,
       "url": "https://help.apple.com/macos/big-sur/imac"
@@ -95,7 +53,7 @@
       "platform": "mac",
       "minimumScale": 1,
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "type": 2,
       "url": "https://help.apple.com/macos/big-sur/mac-pro"
@@ -110,7 +68,7 @@
       "platform": "mac",
       "minimumScale": 1,
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "type": 2,
       "url": "https://help.apple.com/macos/big-sur/macbook-pro"
@@ -124,7 +82,7 @@
       "platform": "mac",
       "minimumScale": 1,
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "type": 2,
       "url": "https://help.apple.com/macos/big-sur/imac-21"
@@ -138,7 +96,7 @@
       "platform": "mac",
       "minimumScale": 1,
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "type": 2,
       "url": "https://help.apple.com/macos/big-sur/imac-pro"
@@ -148,10 +106,10 @@
       "id": "bigsur_whats_new",
       "platform": "mac",
       "osVersion": [
-        "11\\.[0-9].*"
+        "11.0*"
       ],
       "fromOsVersion": [
-        "10\\.[0-9].*"
+        "10.*"
       ],
       "minimumScale": 1,
       "type": 1,
