@@ -1,11 +1,11 @@
 # macos-touristd-config
-![Run](https://github.com/wegotoeleven/macos-touristd-config/workflows/Run/badge.svg)
+![Run](https://github.com/ProfileCreator/macos-touristd-config/workflows/Run/badge.svg)
 
 ## Purpose
 
 This repository is configured to download Apple's TouristD `config.json` file, to be used within a [ProfileManifest](https://github.com/ProfileCreator/ProfileManifests). Rather than running the job manually, it uses Github Actions to do this both:
 - On a schedule, of midnight every night, and
-- Using a manual [`workflow_dispatch` action](https://github.com/wegotoeleven/macos-touristd-config/actions?query=workflow%3ARun)
+- Using a manual [`workflow_dispatch` action](https://github.com/ProfileCreator/macos-touristd-config/actions?query=workflow%3ARun)
 
 ## Workflow
 
