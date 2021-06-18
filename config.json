@@ -3,6 +3,34 @@
      {
       "waxwing": true,
       "productHashes": [
+        "a96e9cd1102f8f48fff3479363ed338f484de5b1"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/bigsur_early-2021_imac-4-2_icon.icns",
+      "id": "bigsur_early-2021_imac-24-2",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "11\\.([3-9]|[1-9][0-9]+).*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/big-sur/early-2021/imac-24-2"
+    },{
+      "waxwing": true,
+      "productHashes": [
+        "d42192fe676804d76f4a4e806cac789de91e6ae5"
+      ],
+      "iconAsset": "https://help.apple.com/macOS/configs/notifications/bigsur_early-2021_imac-4-4_icon.icns",
+      "id": "bigsur_early-2021_imac-24-4",
+      "platform": "mac",
+      "minimumScale": 1,
+      "osVersion": [
+        "11\\.([3-9]|[1-9][0-9]+).*"
+      ],
+      "type": 2,
+      "url": "https://help.apple.com/macos/big-sur/early-2021/imac-24-4"
+    },{
+      "waxwing": true,
+      "productHashes": [
         "81b52ce78cce91fa6ce17ca079a19cc2a0792bc7"
       ],
       "iconAsset": "https://help.apple.com/macOS/configs/notifications/bigsur_late-2020_macbook-air_icon.icns",
@@ -1016,6 +1044,6 @@
       }
     ]
   ],
-  "version": "0.18"
+  "version": "0.19"
 }
 
