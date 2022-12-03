@@ -1,6 +1,10 @@
 # macos-touristd-config
 ![Run](https://github.com/ProfileCreator/macos-touristd-config/workflows/Run/badge.svg)
 
+## DEPRECATED
+
+This repository is no longer maintained, as Apple has transferred the previous touristd functionality into Apple 'Tips'.
+
 ## Purpose
 
 This repository is configured to download Apple's TouristD `config.json` file, to be used within a [ProfileManifest](https://github.com/ProfileCreator/ProfileManifests). Rather than running the job manually, it uses Github Actions to do this both:
